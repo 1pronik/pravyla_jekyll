@@ -1,0 +1,19 @@
+{
+  "name": "pravyla_jekyll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1pronik/pravyla_jekyll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1pronik/pravyla_jekyll/issues"
+  },
+  "homepage": "https://github.com/1pronik/pravyla_jekyll#readme"
+}
