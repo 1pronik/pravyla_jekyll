@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "jekyll serve"
+    "dev": "jekyll serve",
+    "predeploy": "JEKYLL_ENV=production jekyll build",
+    "deploy": "gh-pages -d _site"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/1pronik/pravyla_jekyll/issues"
   },
-  "homepage": "https://github.com/1pronik/pravyla_jekyll#readme"
+  "homepage": "https://github.com/1pronik/pravyla_jekyll#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
