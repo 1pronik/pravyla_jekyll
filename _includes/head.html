@@ -1,0 +1,105 @@
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+
+
+  {% if jekyll.environment == 'production' %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-72763511-2" async="async"></script>
+    <!-- Google Schema -->
+    <script type="application/ld+json">
+      { "@context": "http://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "http://www.pravyla.com/uk" }, "headline": "Найважливіші правила поведінки в соціумі","image": ["http://www.pravyla.com/assets/logo-c4bad24a750f32bbbf2d2f28b4ec966e266b567f19ef6be33f5644e5cf7bc98a.png"], "datePublished": "2019-01-21", "dateModified": "2024-05-25", "author": { "@type": "Person", "name": "Pravyla" }, "publisher": { "@type": "Organization", "name": "Pravyla", "logo": { "@type": "ImageObject", "url": "http://www.pravyla.com/assets/logo-c4bad24a750f32bbbf2d2f28b4ec966e266b567f19ef6be33f5644e5cf7bc98a.png" } }, "description": "Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень, вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...", "articleBody": "Правила поведінки на гірськолижному схилі, Правила поведінки в офісі, як стати чудовим колегою, 🛴 ПДР для електросамокатів, Правила поведінки під час повені та паводку, Правила вигулу собак, Правила поведінки під час грози, Правила поведінки в літаку під час повітряних перевезень , Глобальне потепління, правила поведінки кожного для ефективної боротьби, Правила поведінки під час коронавірусу covid-19, Правила поведінки на концертах та музичних фестивалях, Правила поведінки в лісі у пожежонебезпечний період, Правила поведінки в зоопарку, Правила поведінки на виборах, Віддалена робота, правила як зробити фріланс максимально ефективним, Театр починається не з гардеробу... Правила поведінки в театрі, Цифровий етикет: правила онлайн спілкування, Правила поведінки на воді та біля водоймищ" }
+    </script>
+  {% endif %}
+
+  <!-- Fontawesome icons-->
+  <script src="https://kit.fontawesome.com/28f326308b.js"></script>
+
+  <!-- Edit settings in `_config.yml` to make the social details your own. -->
+  <meta content="{{ site.name }}" property="og:site_name">
+
+  {% if page.title %}
+    <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+    <meta content="{{ site.title }}" property="og:title">
+  {% endif %}
+
+  {% if page.title %}
+    <meta content="article" property="og:type">
+  {% else %}
+    <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+  {% endif %}
+  {% if page.url %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
+  {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/about/" property="article:author">
+  {% endif %}
+  {% if page.img %}
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
+  {% else %}
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.social_img }}" property="og:image">
+  {% endif %}
+  {% if page.categories %}
+    {% for category in page.categories limit:1 %}
+    <meta content="{{ category }}" property="article:section">
+    {% endfor %}
+  {% endif %}
+  {% if page.tags %}
+    {% for tag in page.tags %}
+    <meta content="{{ tag }}" property="article:tag">
+    {% endfor %}
+  {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+  {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.img %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
+  {% else %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.social_img }}">
+  {% endif %}
+
+	{% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% else %}
+    <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.social_img }}">
+	<link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
+
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#263959">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#263959">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+
+	<!-- Styles -->
+	<!-- <link href='{{ "/assets/css/main.css" | prepend: site.baseurl }}' rel="stylesheet"> -->
+  <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
+
+</head>

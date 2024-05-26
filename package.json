@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "jekyll serve",
     "predeploy": "JEKYLL_ENV=production jekyll build",
     "deploy": "gh-pages -d _site"
@@ -12,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/1pronik/pravyla_jekyll.git"
   },
-  "author": "",
+  "author": "Pravyla",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/1pronik/pravyla_jekyll/issues"

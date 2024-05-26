@@ -1,0 +1,189 @@
+form {
+  margin: 0 30px;
+  width: 80%;
+}
+
+input[type=submit] {
+  width: 10em;
+  height: 2em;
+  color: dodgerblue;
+}
+
+textarea.article_text {
+  height: 1000px;
+  width: 100%;
+  border-color: #CCCCCC;
+}
+
+.home-tagline{
+  font-family: "Comfortaa_SemiBold" !important;
+  padding: 5% 10%;
+  line-height: 0.9;
+  text-align: center;
+
+  .title {
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: initial;
+  }
+}
+
+.left {
+  text-align: left;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 500px) {
+  .home-tagline {
+    padding: 5%0;
+
+    .title {
+      font-size: 1em;
+    }
+  }
+}
+
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 10px 0 40px 0;
+  line-height: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.group:before,
+.group:after {
+  content:"";
+  display:table;
+}
+.group:after {
+  clear:both;
+}
+.group {
+  zoom:1;  /* For IE 6/7 (trigger hasLayout) */
+}
+
+.span_2_of_2 {
+  width: 100%;
+}
+
+.span_1_of_2 {
+  width: 48%;
+}
+
+.span_1_of_5 {
+  width: 20%;
+}
+
+.span_3_of_5 {
+  width: 60%;
+}
+
+@media only screen and (max-width: 500px) {
+  .span_2_of_2 {
+    width: 100%;
+  }
+  .span_1_of_2 {
+    width: 100%;
+  }
+  .span_1_of_5{
+    width: 100%;
+  }
+  .span_3_of_5{
+    width: 100%;
+  }
+}
+
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+  font-size: 24px;
+  font-weight: 200 !important;
+
+  h2, h3 {
+    margin: 0;
+    float: none;
+    text-align: left!important;
+  }
+}
+
+.share {
+  text-align: right;
+  //margin-top: -30px;
+
+  //share buttons
+  $size: 30px;
+  .social-share-button {
+    .ssb-icon {
+      background-size: $size $size;
+      height: $size;
+      width: $size;
+    }
+  }
+}
+
+
+
+.col:first-child { text-align: center; } /* all browsers except IE6 and lower */
+
+.col.center { text-align: center; }
+
+.border_line {
+  border-top: 1px solid #2f2f2f2f;
+  padding: 10px;
+  text-align: center;
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 500px) {
+  .col {
+    margin: 1% 0 1% 0%;
+  }
+}
+
+.fa-stack-2x {
+  font-size: 1em!important;
+}
+
+.green {
+  color: #1DB954;
+}
+
+.red {
+  color: rgba(252, 12, 57, 1);
+}
+
+.yellow {
+  color: rgba(246, 244, 218, 1);
+}
+
+.lightyellow {
+  color: yellow;
+}
+
+.flushed {
+  color: #d2ce98
+}
+
+.orange {
+  color: orange;
+}
+
+.pink {
+  color: hotpink;
+}
+
+.brown {
+  color: saddlebrown;
+}
+
+.blue {
+  color: deepskyblue;
+}
+
+.darkblue {
+  color: darkblue;
+}

@@ -1,0 +1,26 @@
+img.logo {
+  width: 20px;
+  height: 25px;
+  margin: 10px 0 -6px 0;
+}
+
+img.article_img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: -50px;
+}
+
+.rule-icon {
+  content: image-url('logo.svg');
+  width: 50px;
+  height: 68px;
+  margin-top:8px;
+}
+
+.social-icons {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}

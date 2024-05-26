@@ -18,21 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Роби правильно
+email: pravylacom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень,
+  вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/pravyla_jekyll" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+social_img: social_image.jpg
+lang: "uk"
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:title
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
