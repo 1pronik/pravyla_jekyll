@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /pravyla_jekyll/sitemap.xml
