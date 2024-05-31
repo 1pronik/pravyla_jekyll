@@ -5,4 +5,20 @@
 layout: default
 ---
 
-<h1>Hello!</h1>
+<main class="main commerce-landing" id="content" role="main">
+  <div class="home-tagline center">
+    <h1 class="title">Найважливіші правила поведінки в соціумі</h1>
+  </div>
+
+  {% for post in site.posts %}
+    <div class="section group">
+      <div class="col span_1_of_5">
+        <i class="{{ post.icon_class }}"></i>
+      </div>
+      <h2 class="col span_3_of_5">
+        <a class="underline_none" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <p><a href="{{ post.url | relative_url }}">переглянути</a></p>
+      </h2>
+    </div>
+  {% endfor %}
+</main>
