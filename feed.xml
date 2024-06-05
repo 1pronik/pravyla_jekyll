@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="uk"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/pravyla_jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="/pravyla_jekyll/" rel="alternate" type="text/html" hreflang="uk" /><updated>2024-05-31T16:35:16+02:00</updated><id>/pravyla_jekyll/feed.xml</id><title type="html">Роби правильно</title><subtitle>Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень, вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...</subtitle><entry><title type="html">Віддалена робота, правила як зробити фріланс максимально ефективним</title><link href="/pravyla_jekyll/viddalenoyi-roboty/" rel="alternate" type="text/html" title="Віддалена робота, правила як зробити фріланс максимально ефективним" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/viddalenoyi-roboty</id><content type="html" xml:base="/pravyla_jekyll/viddalenoyi-roboty/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="uk"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/pravyla_jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="/pravyla_jekyll/" rel="alternate" type="text/html" hreflang="uk" /><updated>2024-06-05T21:02:56+02:00</updated><id>/pravyla_jekyll/feed.xml</id><title type="html">Роби правильно</title><subtitle>Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень, вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...</subtitle><entry><title type="html">Віддалена робота, правила як зробити фріланс максимально ефективним</title><link href="/pravyla_jekyll/viddalenoyi-roboty/" rel="alternate" type="text/html" title="Віддалена робота, правила як зробити фріланс максимально ефективним" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/viddalenoyi-roboty</id><content type="html" xml:base="/pravyla_jekyll/viddalenoyi-roboty/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Віддалена робота, правила як зробити фріланс максимально ефективним" src="/pravyla_jekyll/assets/img/viddalena-robota.png">
-  <h1 class="title">Віддалена робота, правила як зробити фріланс максимально ефективним</h1>
+    <img class="article_img" alt="Віддалена робота, правила як зробити фріланс максимально ефективним" src="/pravyla_jekyll/assets/img/viddalena-robota.png">
+    <h1 class="title">Віддалена робота, правила як зробити фріланс максимально ефективним</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="stopwatch" class="svg-inline--fa fa-stopwatch fa-w-14 fa-2x" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M432 304c0 114.9-93.1 208-208 208S16 418.9 16 304c0-104 76.3-190.2 176-205.5V64h-28c-6.6 0-12-5.4-12-12V12c0-6.6 5.4-12 12-12h120c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-28v34.5c37.5 5.8 71.7 21.6 99.7 44.6l27.5-27.5c4.7-4.7 12.3-4.7 17 0l28.3 28.3c4.7 4.7 4.7 12.3 0 17l-29.4 29.4-.6.6C419.7 223.3 432 262.2 432 304zm-176 36V188.5c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12V340c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12z"></path></svg><!-- <i class="fas fa-stopwatch fa-2x"></i> -->
@@ -88,29 +89,12 @@
           <p>Нормально поговорити з колегами про їх справи чи відволіктися на приготування обіду</p>
       </div>
   </div>
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Віддалена робота, правила як зробити фріланс максимально ефективним" data-img="" data-url="http://www.pravyla.com/uk/articles/viddalenoyi-roboty" data-desc="Ми зібрали правила віддаленої роботи для тих, хто хоче ефективно працювати вдома. Адже віддалена робота - все більше набирає популярність в наш час. Актуально для фрілансу або якщо просто потрібно тимчасово попрацювати дистанційно." data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Віддалена робота, правила як зробити фріланс максимально ефективним Дотримуйся робочого режиму Якщо у тебе був робочий графік в офісі, збережи його і вдома. Використовуй час, який витрачався на дорогу на корисні речі Не працюй в піжамі Обери "робочу" одежу і завжди надягай її перед початком роботи. Вона слугуватиме нагадуванням, що ти професіонал Дотримуйся робочого етикету Інформуй колег про власну доступність та перевіряй чи доступні вони перед дзвінком Підтримуй соціальні зв'язки Спілкуйся з колегами не тільки по роботі, цікався як у них справи, обговорюйте хоббі та спільні інтереси Вигадай щоденні традиції Прогулянка в обід чи після роботи, похід в кафе чи магазин за хлібом. Ці дрібниці будуть прикрашати рутину По можливості, хоча б раз в тиждень виходь попрацювати з кафе Змінюй пейзаж, щоб не забути про соціум Створи робочу атмосферу Розділяй зони роботи та відпочинку. Виділи місце тільки для роботи. Попроси рідних не турбувати, коли ти на цьому місці. Якщо захочеш погортати стрічку новин, пересядь в інше місце. Мозок звикне і ти станеш більш продуктивним на робочому місці]]></summary></entry><entry><title type="html">Глобальне потепління, правила поведінки кожного для ефективної боротьби</title><link href="/pravyla_jekyll/globalne-poteplinnya/" rel="alternate" type="text/html" title="Глобальне потепління, правила поведінки кожного для ефективної боротьби" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/globalne-poteplinnya</id><content type="html" xml:base="/pravyla_jekyll/globalne-poteplinnya/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Віддалена робота, правила як зробити фріланс максимально ефективним]]></summary></entry><entry><title type="html">Глобальне потепління, правила поведінки кожного для ефективної боротьби</title><link href="/pravyla_jekyll/globalne-poteplinnya/" rel="alternate" type="text/html" title="Глобальне потепління, правила поведінки кожного для ефективної боротьби" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/globalne-poteplinnya</id><content type="html" xml:base="/pravyla_jekyll/globalne-poteplinnya/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Глобальне потепління, правила поведінки кожного для ефективної боротьби" src="/pravyla_jekyll/assets/img/temp.png">
-  <h1 class="title">Глобальне потепління, правила поведінки кожного для ефективної боротьби</h1>
+    <img class="article_img" alt="Глобальне потепління, правила поведінки кожного для ефективної боротьби" src="/pravyla_jekyll/assets/img/temp.png">
+    <h1 class="title">Глобальне потепління, правила поведінки кожного для ефективної боротьби</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
     <svg class="svg-inline--fa fa-apple-whole fa-2x green" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="apple-whole" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224 112c-8.8 0-16-7.2-16-16V80c0-44.2 35.8-80 80-80h16c8.8 0 16 7.2 16 16V32c0 44.2-35.8 80-80 80H224zM0 288c0-76.3 35.7-160 112-160c27.3 0 59.7 10.3 82.7 19.3c18.8 7.3 39.9 7.3 58.7 0c22.9-8.9 55.4-19.3 82.7-19.3c76.3 0 112 83.7 112 160c0 128-80 224-160 224c-16.5 0-38.1-6.6-51.5-11.3c-8.1-2.8-16.9-2.8-25 0c-13.4 4.7-35 11.3-51.5 11.3C80 512 0 416 0 288z"></path></svg><!-- <i class="fas fa-apple-alt fa-2x green"></i> Font Awesome fontawesome.com -->
@@ -194,29 +178,13 @@
   Соціального опитування свідчать, що коли одна людина обирає більш екологічний спосіб життя, інші також наслідують її приклад. Ми постійно порівнюємо свій спосіб життя з діями нашого оточення. То ж чому б не придивитися уважніше до оточуючих!? А якщо виявиться, що ніхто не керується цими правилами - стань взірцем!</p>
      </div>
   </div>
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Глобальне потепління, правила поведінки кожного для ефективної боротьби" data-img="" data-url="http://www.pravyla.com/uk/articles/globalne-poteplinnya" data-desc="Всі говорять про зміни клімату, але мало хто усвідомлює, що саме може зробити кожен із нас. Щоб зберегти планету та вплинути на глобальне потепління, правила поведінки які зібрані нами, мають бути відомі кожному." data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Глобальне потепління, правила поведінки кожного для ефективної боротьби Споживай сезонну їжу, вирощену поблизу Від шляху, який пройде той чи інший овоч чи фрукт, прямо залежить наскільки вагомий його вплив на глобальне потепління, правила дуже прості]]></summary></entry><entry><title type="html">Правила поведінки на воді та біля водоймищ</title><link href="/pravyla_jekyll/kupannya-ta-povedinka-na-vodi/" rel="alternate" type="text/html" title="Правила поведінки на воді та біля водоймищ" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/kupannya-ta-povedinka-na-vodi</id><content type="html" xml:base="/pravyla_jekyll/kupannya-ta-povedinka-na-vodi/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Глобальне потепління, правила поведінки кожного для ефективної боротьби]]></summary></entry><entry><title type="html">Правила поведінки на воді та біля водоймищ</title><link href="/pravyla_jekyll/kupannya-ta-povedinka-na-vodi/" rel="alternate" type="text/html" title="Правила поведінки на воді та біля водоймищ" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/kupannya-ta-povedinka-na-vodi</id><content type="html" xml:base="/pravyla_jekyll/kupannya-ta-povedinka-na-vodi/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки на воді та біля водоймищ" src="/pravyla_jekyll/assets/img/voda.png">
-  <h1 class="title">Правила поведінки на воді та біля водоймищ</h1>
+    <img class="article_img" alt="Правила поведінки на воді та біля водоймищ" src="/pravyla_jekyll/assets/img/voda.png">
+    <h1 class="title">Правила поведінки на воді та біля водоймищ</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg class="svg-inline--fa fa-water-ladder fa-2x blue" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="water-ladder" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M128 127.7C128 74.9 170.9 32 223.7 32c48.3 0 89 36 95 83.9l1 8.2c2.2 17.5-10.2 33.5-27.8 35.7s-33.5-10.2-35.7-27.8l-1-8.2c-2-15.9-15.5-27.8-31.5-27.8c-17.5 0-31.7 14.2-31.7 31.7V224H384V127.7C384 74.9 426.9 32 479.7 32c48.3 0 89 36 95 83.9l1 8.2c2.2 17.5-10.2 33.5-27.8 35.7s-33.5-10.2-35.7-27.8l-1-8.2c-2-15.9-15.5-27.8-31.5-27.8c-17.5 0-31.7 14.2-31.7 31.7V361c-1.6 1-3.3 2-4.8 3.1c-18 12.4-40.1 20.3-59.2 20.3h0V288H192v96.5c-19 0-41.2-7.9-59.1-20.3c-1.6-1.1-3.2-2.2-4.9-3.1V127.7zM306.5 389.9C329 405.4 356.5 416 384 416c26.9 0 55.4-10.8 77.4-26.1l0 0c11.9-8.5 28.1-7.8 39.2 1.7c14.4 11.9 32.5 21 50.6 25.2c17.2 4 27.9 21.2 23.9 38.4s-21.2 27.9-38.4 23.9c-24.5-5.7-44.9-16.5-58.2-25C449.5 469.7 417 480 384 480c-31.9 0-60.6-9.9-80.4-18.9c-5.8-2.7-11.1-5.3-15.6-7.7c-4.5 2.4-9.7 5.1-15.6 7.7c-19.8 9-48.5 18.9-80.4 18.9c-33 0-65.5-10.3-94.5-25.8c-13.4 8.4-33.7 19.3-58.2 25c-17.2 4-34.4-6.7-38.4-23.9s6.7-34.4 23.9-38.4c18.1-4.2 36.2-13.3 50.6-25.2c11.1-9.4 27.3-10.1 39.2-1.7l0 0C136.7 405.2 165.1 416 192 416c27.5 0 55-10.6 77.5-26.1c11.1-7.9 25.9-7.9 37 0z"></path></svg><!-- <i class="fas fa-swimming-pool fa-2x blue" aria-hidden="true"></i> Font Awesome fontawesome.com -->
@@ -317,29 +285,12 @@
   </div>
   </div>
 
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки на воді та біля водоймищ" data-img="" data-url="http://www.pravyla.com/uk/articles/kupannya-ta-povedinka-na-vodi" data-desc="Купатися люблять і діти і дорослі. Правила купання, які допоможуть вберегти своє життя. Адже правила поведінки на воді дуже важливі в будь яку пору року..." data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки на воді та біля водоймищ Правила купання дозволяють відпочивати на воді тільки у спеціально відведених та обладнаних для цього місцях Краще не купатися поодинці біля крутих, стрімчастих і зарослих густою рослинністю берегів. Якщо ти не вмієш плавати - заходь у воду не глибше, ніж до поясу. Заходь у воду повільно, дозволяючи тілу адаптуватися до зміни температури повітря та води]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/pravyla_jekyll/office/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/office</id><content type="html" xml:base="/pravyla_jekyll/office/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки на воді та біля водоймищ]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/pravyla_jekyll/office/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/office</id><content type="html" xml:base="/pravyla_jekyll/office/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки в офісі, як стати чудовим колегою" src="/pravyla_jekyll/assets/img/office.png">
-  <h1 class="title">Правила поведінки в офісі, як стати чудовим колегою</h1>
+    <img class="article_img" alt="Welcome to Jekyll!" src="/pravyla_jekyll/assets/img/office.png">
+    <h1 class="title">Welcome to Jekyll!</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="head-side-cough" class="svg-inline--fa fa-head-side-cough fa-w-20 fa-2x red" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M616,304a24,24,0,1,0-24-24A24,24,0,0,0,616,304ZM552,416a24,24,0,1,0,24,24A24,24,0,0,0,552,416Zm-64-56a24,24,0,1,0,24,24A24,24,0,0,0,488,360ZM616,464a24,24,0,1,0,24,24A24,24,0,0,0,616,464Zm0-104a24,24,0,1,0,24,24A24,24,0,0,0,616,360Zm-64-40a24,24,0,1,0,24,24A24,24,0,0,0,552,320Zm-74.78-45c-21-47.12-48.5-151.75-73.12-186.75A208.13,208.13,0,0,0,234.1,0H192C86,0,0,86,0,192c0,56.75,24.75,107.62,64,142.88V512H288V480h64a64,64,0,0,0,64-64H320a32,32,0,0,1,0-64h96V320h32A32,32,0,0,0,477.22,275ZM288,224a32,32,0,1,1,32-32A32.07,32.07,0,0,1,288,224Z"></path></svg><!-- <i class="fas fa-head-side-cough fa-2x red"></i> -->
@@ -456,29 +407,13 @@
           <p>Коли правила поведінки в офісі дотримуються - його приємно відвідувати</p>
   </div>
   </div>
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки в офісі, як стати чудовим колегою" data-img="" data-url="http://www.pravyla.com/uk/articles/office" data-desc="Список актуальних і найдоречніших правил поведінки в офісі. Ознайомся з правилами поводження в офісі щоб бути гарним колегою. Адже всім в душі хочеться відвідувати офіс, правила поведінки в якому дотримуються" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки в офісі, як стати чудовим колегою Не виходь на роботу, коли ти хворий Якщо тобі не шкода свого здоров‘я, подумай про оточуючих. Виходячи на роботу хворим, ти ставиш під загрозу фізичний стан інших людей]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/pravyla_jekyll/pdr-dlya-electrosamokativ/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/pdr-dlya-electrosamokativ</id><content type="html" xml:base="/pravyla_jekyll/pdr-dlya-electrosamokativ/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to Jekyll!]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/pravyla_jekyll/pdr-dlya-electrosamokativ/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/pdr-dlya-electrosamokativ</id><content type="html" xml:base="/pravyla_jekyll/pdr-dlya-electrosamokativ/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="🛴 ПДР для електросамокатів" src="/pravyla_jekyll/assets/img/samokat.png">
-  <h1 class="title">🛴 ПДР для електросамокатів</h1>
+    <img class="article_img" alt="Welcome to Jekyll!" src="/pravyla_jekyll/assets/img/samokat.png">
+    <h1 class="title">Welcome to Jekyll!</h1>
   </div>
+
   <div class="section group">
   <div class="col span_1_of_5">
   <svg class="svg-inline--fa fa-person-biking fa-2x" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="person-biking" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M400 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm27.2 64l-61.8-48.8c-17.3-13.6-41.7-13.8-59.1-.3l-83.1 64.2c-30.7 23.8-28.5 70.8 4.3 91.6L288 305.1V416c0 17.7 14.3 32 32 32s32-14.3 32-32V288c0-10.7-5.3-20.7-14.2-26.6L295 232.9l60.3-48.5L396 217c5.7 4.5 12.7 7 20 7h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H427.2zM56 384a72 72 0 1 1 144 0A72 72 0 1 1 56 384zm200 0A128 128 0 1 0 0 384a128 128 0 1 0 256 0zm184 0a72 72 0 1 1 144 0 72 72 0 1 1 -144 0zm200 0a128 128 0 1 0 -256 0 128 128 0 1 0 256 0z"></path></svg><!-- <i class="fas fa-biking fa-2x" aria-hidden="true"></i> Font Awesome fontawesome.com -->
@@ -607,30 +542,12 @@
   Якщо тримати однією, то самокат стає некерованим. Ніколи не відштовхуйся ногою від асфальту, якщо ти набрав швидкість - ти точно впадеш</p>
   </div></div>
 
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <p class="source_url"><a target="_blank" href="https://www.youtube.com/watch?v=V6u5ZC7WMis">Більше інформації по темі</a></p>
-  <div class="social-share-button" data-title="🛴 ПДР для електросамокатів" data-img="" data-url="http://www.pravyla.com/uk/articles/pdr-dlya-electrosamokativ" data-desc="🛴Ці прості правила дорожнього руху для електросамокатів допоможуть тобі зберегти здоров" я="" і="" отримати="" тільки="" позитивні="" враження="" від="" поїздок="" ✅'="" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[🛴 ПДР для електросамокатів Електросамокатам місце на велодоріжці ПДР в Украхні не регулюють рух електросамокатів. Велодоріжок в Україні мало, а пересування по дорогах на велосипедах і електросамокатах в Україні створює реальну загрозу життю і здоров'ю, тому пересування на тротуарах допустимо]]></summary></entry><entry><title type="html">Правила поведінки під час грози</title><link href="/pravyla_jekyll/pid-chas-grozy/" rel="alternate" type="text/html" title="Правила поведінки під час грози" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/pid-chas-grozy</id><content type="html" xml:base="/pravyla_jekyll/pid-chas-grozy/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to Jekyll!]]></summary></entry><entry><title type="html">Правила поведінки під час грози</title><link href="/pravyla_jekyll/pid-chas-grozy/" rel="alternate" type="text/html" title="Правила поведінки під час грози" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/pid-chas-grozy</id><content type="html" xml:base="/pravyla_jekyll/pid-chas-grozy/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки під час грози" src="/pravyla_jekyll/assets/img/groza.gif">
-  <h1 class="title">Правила поведінки під час грози</h1>
+    <img class="article_img" alt="Правила поведінки під час грози" src="/pravyla_jekyll/assets/img/groza.gif">
+    <h1 class="title">Правила поведінки під час грози</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg class="svg-inline--fa fa-house-user fa-2x blue" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="house-user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c.2 35.5-28.5 64.3-64 64.3H128.1c-35.3 0-64-28.7-64-64V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24zM352 224a64 64 0 1 0 -128 0 64 64 0 1 0 128 0zm-96 96c-44.2 0-80 35.8-80 80c0 8.8 7.2 16 16 16H384c8.8 0 16-7.2 16-16c0-44.2-35.8-80-80-80H256z"></path></svg><!-- <i class="fas fa-house-user fa-2x blue" aria-hidden="true"></i> Font Awesome fontawesome.com -->
@@ -747,28 +664,11 @@
           <h2 class="col">Інші правила поведінки під час грози - уникай вуличних ліхтарів, металевих веж, опор електропередач, металевих парканів та стін, біля яких ростуть дерева</h2>
       </div>
   </div>
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки під час грози" data-img="" data-url="http://www.pravyla.com/uk/articles/pid-chas-grozy" data-desc="Гроза - це небезпечне явище природи. Щоб зберегти своє здоров" я="" та="" життя="" -="" потрібно="" знати="" правила="" поведінки="" під="" час="" грози.'="" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час грози Сховайся у будинок із громовідводом чи автомобіль Коли ти в авто, найголовніші правила поведінки під час грози - зупинитися та перечекати доки закінчиться негода. Не паркуйся біля дерев та високих конструкцій. Зачини вікна авто і опусти або зніми антену]]></summary></entry><entry><title type="html">Правила поведінки під час повені та паводку</title><link href="/pravyla_jekyll/povedenika-u-povin/" rel="alternate" type="text/html" title="Правила поведінки під час повені та паводку" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedenika-u-povin</id><content type="html" xml:base="/pravyla_jekyll/povedenika-u-povin/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час грози]]></summary></entry><entry><title type="html">Правила поведінки під час повені та паводку</title><link href="/pravyla_jekyll/povedenika-u-povin/" rel="alternate" type="text/html" title="Правила поведінки під час повені та паводку" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedenika-u-povin</id><content type="html" xml:base="/pravyla_jekyll/povedenika-u-povin/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки під час повені та паводку" src="/pravyla_jekyll/assets/img/povin.png">
-  <h1 class="title">Правила поведінки під час повені та паводку</h1>
+    <img class="article_img" alt="Правила поведінки під час повені та паводку" src="/pravyla_jekyll/assets/img/povin.png">
+    <h1 class="title">Правила поведінки під час повені та паводку</h1>
   </div>
 
   <div class="section group">
@@ -870,29 +770,13 @@
   </p>
   </div></div>
   &nbsp;
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки під час повені та паводку" data-img="" data-url="http://www.pravyla.com/uk/articles/povedenika-u-povin" data-desc="Список актуальних і найдоречніших правил поведінки під час повені та паводку. Ознайомся з цим коротким списком правил щоб бути готовим до негоди" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час повені та паводку]]></summary></entry><entry><title type="html">Правила поведінки під час коронавірусу covid-19</title><link href="/pravyla_jekyll/povedinka-pid-chas-koronavirusu/" rel="alternate" type="text/html" title="Правила поведінки під час коронавірусу covid-19" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinka-pid-chas-koronavirusu</id><content type="html" xml:base="/pravyla_jekyll/povedinka-pid-chas-koronavirusu/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час повені та паводку]]></summary></entry><entry><title type="html">Правила поведінки під час коронавірусу covid-19</title><link href="/pravyla_jekyll/povedinka-pid-chas-koronavirusu/" rel="alternate" type="text/html" title="Правила поведінки під час коронавірусу covid-19" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinka-pid-chas-koronavirusu</id><content type="html" xml:base="/pravyla_jekyll/povedinka-pid-chas-koronavirusu/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки під час коронавірусу covid-19" src="/pravyla_jekyll/assets/img/covid.png">
-  <h1 class="title">Правила поведінки під час коронавірусу covid-19</h1>
+    <img class="article_img" alt="Правила поведінки під час коронавірусу covid-19" src="/pravyla_jekyll/assets/img/covid.png">
+    <h1 class="title">Правила поведінки під час коронавірусу covid-19</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="house-user" class="svg-inline--fa fa-house-user fa-w-18 fa-2x green" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M570.69,236.27,512,184.44V48a16,16,0,0,0-16-16H432a16,16,0,0,0-16,16V99.67L314.78,10.3C308.5,4.61,296.53,0,288,0s-20.46,4.61-26.74,10.3l-256,226A18.27,18.27,0,0,0,0,248.2a18.64,18.64,0,0,0,4.09,10.71L25.5,282.7a21.14,21.14,0,0,0,12,5.3,21.67,21.67,0,0,0,10.69-4.11l15.9-14V480a32,32,0,0,0,32,32H480a32,32,0,0,0,32-32V269.88l15.91,14A21.94,21.94,0,0,0,538.63,288a20.89,20.89,0,0,0,11.87-5.31l21.41-23.81A21.64,21.64,0,0,0,576,248.19,21,21,0,0,0,570.69,236.27ZM288,176a64,64,0,1,1-64,64A64,64,0,0,1,288,176ZM400,448H176a16,16,0,0,1-16-16,96,96,0,0,1,96-96h64a96,96,0,0,1,96,96A16,16,0,0,1,400,448Z"></path></svg><!-- <i class="fas fa-house-user fa-2x green "></i> -->
@@ -969,29 +853,13 @@
           </p>
       </div>
   </div>
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки під час коронавірусу covid-19" data-img="" data-url="http://www.pravyla.com/uk/articles/povedinka-pid-chas-koronavirusu" data-desc="Найголовніші рекомендацї та правила поведінки під час коронавірусу 2020. Ознайомся і виконуй їх щоб вберегти себе та своїх близьких. Нові правила життя які викликав коронавірус (covid-19)" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час коронавірусу covid-19 Самоізоляція зменшує швидкість поширення вірусу]]></summary></entry><entry><title type="html">Правила поведінки в лісі у пожежонебезпечний період</title><link href="/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period/" rel="alternate" type="text/html" title="Правила поведінки в лісі у пожежонебезпечний період" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period</id><content type="html" xml:base="/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки під час коронавірусу covid-19]]></summary></entry><entry><title type="html">Правила поведінки в лісі у пожежонебезпечний період</title><link href="/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period/" rel="alternate" type="text/html" title="Правила поведінки в лісі у пожежонебезпечний період" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period</id><content type="html" xml:base="/pravyla_jekyll/povedinka-u-lisi-u-pozhezhonebezpechnyj-period/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки в лісі у пожежонебезпечний період" src="/pravyla_jekyll/assets/img/fire.png">
-  <h1 class="title">Правила поведінки в лісі у пожежонебезпечний період</h1>
+    <img class="article_img" alt="Правила поведінки в лісі у пожежонебезпечний період" src="/pravyla_jekyll/assets/img/fire.png">
+    <h1 class="title">Правила поведінки в лісі у пожежонебезпечний період</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="burn" class="svg-inline--fa fa-burn fa-w-12 fa-2x red" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M192 0C79.7 101.3 0 220.9 0 300.5 0 425 79 512 192 512s192-87 192-211.5c0-79.9-80.2-199.6-192-300.5zm0 448c-56.5 0-96-39-96-94.8 0-13.5 4.6-61.5 96-161.2 91.4 99.7 96 147.7 96 161.2 0 55.8-39.5 94.8-96 94.8z"></path></svg><!-- <i class="fas fa-burn fa-2x red"></i> -->
@@ -1056,30 +924,12 @@
       </h3>
   </div>
 
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <p class="source_url"><a target="_blank" href="https://www.prostir.ua/?library=povedinka-pid-chas-vidpochynku-u-lisi-u-pozhezhonebezpechnyj-period-porady">Більше інформації по темі</a></p>
-  <div class="social-share-button" data-title="Правила поведінки в лісі у пожежонебезпечний період" data-img="" data-url="http://www.pravyla.com/uk/articles/povedinka-u-lisi-u-pozhezhonebezpechnyj-period" data-desc="Як себе поводити у лісі у пожежонебезпечний період. Ми зібрали основні правила поведінки в лісі, щоб ти ознайомився з ними та допоміг уберегти природу від пожеж" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки в лісі у пожежонебезпечний період Правила поведінки в лісі забороняють палити, кидати у лісі непогашені сірники, недопалки]]></summary></entry><entry><title type="html">Правила поведінки на виборах</title><link href="/pravyla_jekyll/povedinky-na-vyborah/" rel="alternate" type="text/html" title="Правила поведінки на виборах" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinky-na-vyborah</id><content type="html" xml:base="/pravyla_jekyll/povedinky-na-vyborah/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки в лісі у пожежонебезпечний період]]></summary></entry><entry><title type="html">Правила поведінки на виборах</title><link href="/pravyla_jekyll/povedinky-na-vyborah/" rel="alternate" type="text/html" title="Правила поведінки на виборах" /><published>2024-05-26T14:12:10+02:00</published><updated>2024-05-26T14:12:10+02:00</updated><id>/pravyla_jekyll/povedinky-na-vyborah</id><content type="html" xml:base="/pravyla_jekyll/povedinky-na-vyborah/"><![CDATA[<main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки на виборах" src="/pravyla_jekyll/assets/img/golosuvannya.png">
-  <h1 class="title">Правила поведінки на виборах</h1>
+    <img class="article_img" alt="Правила поведінки на виборах" src="/pravyla_jekyll/assets/img/golosuvannya.png">
+    <h1 class="title">Правила поведінки на виборах</h1>
   </div>
+
   <div class="section group">
       <div class="col span_1_of_5">
     <svg class="svg-inline--fa fa-clipboard-check fa-2x green" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clipboard-check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M192 0c-41.8 0-77.4 26.7-90.5 64H64C28.7 64 0 92.7 0 128V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V128c0-35.3-28.7-64-64-64H282.5C269.4 26.7 233.8 0 192 0zm0 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64zM305 273L177 401c-9.4 9.4-24.6 9.4-33.9 0L79 337c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L271 239c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z"></path></svg><!-- <i class="fas fa-clipboard-check fa-2x green"></i> Font Awesome fontawesome.com -->
@@ -1243,22 +1093,4 @@
   З усіх питань, які у вас виникають стосовно виборів, та ваших прав під час їх проведення можна звертатися до юридичних центрів чи на гарячу лінію (номер якої запитайте у членів комісії чи знайдіть на стендах)</h3>
   </div></div>
 
-  <div class="section group">
-  <div class="col span_1_of_5"></div>
-  <div class="col span_3_of_5">
-  <div class="share">
-  <div class="social-share-button" data-title="Правила поведінки на виборах" data-img="" data-url="http://www.pravyla.com/uk/articles/povedinky-na-vyborah" data-desc="Волевиявлення в Україні це важлива подія від якої залежить життя кожного. Почитай правила поведінки на виборах 2020, щоб зробити правильний вибір ✅" data-via="">
-  <a rel="nofollow " data-site="telegram" class="ssb-icon ssb-telegram" onclick="return SocialShareButton.share(this);" title="Поділитись в Telegram" href="#"></a>
-  <a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Поділитись в Facebook" href="#"></a>
-  <a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Поділитись в Twitter" href="#"></a>
-  <a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Поділитись в Pinterest" href="#"></a>
-  <a rel="nofollow " data-site="linkedin" class="ssb-icon ssb-linkedin" onclick="return SocialShareButton.share(this);" title="Поділитись в Linkedin" href="#"></a>
-  <a rel="nofollow " data-site="vkontakte" class="ssb-icon ssb-vkontakte" onclick="return SocialShareButton.share(this);" title="Поділитись в Вконтакте" href="#"></a>
-  <a rel="nofollow " data-site="odnoklassniki" class="ssb-icon ssb-odnoklassniki" onclick="return SocialShareButton.share(this);" title="Поділитись в Однокласники" href="#"></a>
-  <a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Поділитись в Reddit" href="#"></a>
-  <a rel="nofollow " data-site="whatsapp_app" class="ssb-icon ssb-whatsapp_app" onclick="return SocialShareButton.share(this);" title="Поділитись в WhatsApp" href="#"></a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки на виборах Перевір себе у списках виборців заздалегідь Безпосередньо на виборчій дільниці за місцем голосування або через інтернет на сайті державного реєстру виборців Якщо тебе немає в реєстрі, то якомога швидше звернися із письмовою заявою до органу ведення Реєстру виборців чи у відповідний розділ на сайті ДРВ. До цієї заяви потрібно додати паспорт (тимчасове посвідчення) громадянина України та його копію. Пам'ятай, що в тебе є можливість голосувати в будь-якій дільниці, якщо ти вчасно звернешся з відповідною заявою до ДРВ]]></summary></entry></feed>
+</main>]]></content><author><name></name></author><summary type="html"><![CDATA[Правила поведінки на виборах]]></summary></entry></feed>
