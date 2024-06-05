@@ -2,12 +2,14 @@
 layout: default
 title:  "Правила поведінки під час повені та паводку"
 date:   2024-05-26 14:12:10 +0200
+icon_class:
+image_path: "/assets/img/povin.png"
 permalink: /:title/
 ---
 <main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-  <img class="article_img" alt="Правила поведінки під час повені та паводку" src="{{ "/assets/img/povin.png" | relative_url }}">
-  <h1 class="title">Правила поведінки під час повені та паводку</h1>
+    <img class="article_img" alt="{{ page.title }}" src="{{ page.image_path | relative_url  }}">
+    <h1 class="title">{{ page.title }}</h1>
   </div>
 
   <div class="section group">
