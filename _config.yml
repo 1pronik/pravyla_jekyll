@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень,
   вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://pravyla.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social_img: pravyla_logo.png
 lang: "uk"
 
