@@ -1,0 +1,30 @@
+<div class="border_line">
+  <h4>Подібні правила:</h4>
+
+  <div class="section group">
+    {% if page.previous.url %}
+      <div class="col span_1_of_2 center">
+        <a aria-label="{{page.previous.title}}" href="{{ page.previous.url | relative_url }}">
+          <i alt="{{page.previous.title}}" class="{{page.previous.icon_class}}"></i>
+        </a>
+
+        <h5><a class="underline_none" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a></h5>
+
+        <p><a href="{{ page.previous.url | relative_url }}">переглянути</a></p>
+      </div>
+    {% endif %}
+
+    {% if page.next.url %}
+      <div class="col span_1_of_2 center">
+        <a aria-label="{{page.next.title}}" href="{{ page.next.url | relative_url }}">
+          <i alt="{{page.next.title}}" class="{{page.next.icon_class}}"></i>
+        </a>
+
+        <h5><a class="underline_none" href="{{ page.next.url | relative_url }}">{{page.next.title}}</a></h5>
+
+        <p><a href="{{ page.next.url | relative_url }}">переглянути</a></p>
+      </div>
+    {% endif %}
+
+  </div>
+</div>
