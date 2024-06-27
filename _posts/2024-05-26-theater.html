@@ -2,13 +2,13 @@
 layout: default
 title:  "Театр починається не з гардеробу... Правила поведінки в театрі"
 date:   2024-05-26 14:12:10 +0200
-icon_class:
+icon_class: "fas fa-theater-masks fa-3x green"
 image_path: "/assets/img/teatr.png"
 permalink: /articles/:title/
 ---
 <main class="main commerce-landing" id="content" role="main">
   <div class="home-tagline center">
-    <img class="article_img" alt="{{ page.title }}" src="{{ page.image_path }}">
+    <img class="article_img" alt="{{ page.title }}" src="{{ page.image_path | relative_url  }}">
     <h1 class="title">{{ page.title }}</h1>
   </div>
 
