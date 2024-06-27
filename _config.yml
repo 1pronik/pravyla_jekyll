@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Роби правильно
+title: Найважливіші правила поведінки в соціумі | pravyla
 email: pravylacom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Сьогодні для всих важливо знати правила поведінки, будь ти службовець чи учень,
   вдома чи в офісі. Ознайомся з найважливішими правилами соціуму...
 baseurl: "/pravyla_jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-social_img: social_image.jpg
+social_img: pravyla_logo.png
 lang: "uk"
 
 # Build settings
