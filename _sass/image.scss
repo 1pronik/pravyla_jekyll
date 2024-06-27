@@ -24,3 +24,27 @@ img.article_img {
   text-align: center;
   text-decoration: none;
 }
+
+.img-container {
+  display: inline-block;
+  
+  &--s {
+    width: 30px;
+    height: 30px;
+  }
+
+  &--xs {
+    width: 18px;
+    height: 18px;
+  }
+
+  &--m {
+    width: 60px;
+    height: 48px;
+  }
+
+  &--l {
+    width: 90px;
+    height: 72px;
+  }
+}
