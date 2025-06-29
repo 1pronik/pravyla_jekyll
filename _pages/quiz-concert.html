@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Концертний Тест"
+permalink: /quiz-concert/
+---
+<main class="main commerce-landing" id="content" role="main">
+  <div class="home-tagline center">
+    <h1 class="title">Тест: Правила поведінки на концертах</h1>
+  </div>
+
+  <div class="quiz-container">
+    <div id="quiz-container"></div>
+    <button class="submit" id="submit-quiz" style="display:none;">Перевірити результати</button>
+    <div id="quiz-result"></div>
+  </div>
+
+</main>
+
+<script>
+window.quizData = [
+  {% for q in site.data.quiz_concert.questions %}
+    {
+      question: {{ q.question | jsonify }},
+      options: {{ q.options | jsonify }},
+      answer: {{ q.answer | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+</script>
+<script src="{{ '/assets/js/quiz-concert.js' | relative_url }}"></script>
