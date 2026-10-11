@@ -144,6 +144,24 @@ textarea.article_text {
   }
 }
 
+.distance-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 18px;
+  line-height: 1.4;
+
+  td {
+    padding: 8px 0;
+    border-bottom: 1px solid #2f2f2f2f;
+  }
+
+  td:last-child {
+    text-align: right;
+    white-space: nowrap;
+    padding-left: 16px;
+  }
+}
+
 .fa-stack-2x {
   font-size: 1em!important;
 }

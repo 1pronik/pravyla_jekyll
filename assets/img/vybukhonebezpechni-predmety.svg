@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Вибухонебезпечний предмет">
+  <path d="M100 14 L190 178 H10 Z" fill="#FFC107" stroke="#2f2f2f" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="92" cy="138" r="30" fill="#2f2f2f"/>
+  <rect x="106" y="104" width="16" height="14" rx="2" fill="#2f2f2f" transform="rotate(45 114 111)"/>
+  <path d="M119 104 q4 -10 12 -10" fill="none" stroke="#2f2f2f" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="133" cy="93" r="6" fill="#FC0C39"/>
+  <circle cx="81" cy="126" r="7" fill="#fff" opacity="0.35"/>
+</svg>
